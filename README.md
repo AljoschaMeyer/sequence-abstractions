@@ -284,7 +284,7 @@ interface ImperativeReader<S, T, U, E> {
 
 Many thanks to Erick Lavoie and Andreas Dzialocha for listening to my ramblings, asking clever questions and providing valuable feedback.
 
-My exploration of the problem space has been heavily influenced by some [rust](https://www.rust-lang.org/) APIs, standard library iterators, readers and writers, and stream and sink traits in the [futures](https://crates.io/crates/futures) crate.
+My exploration of the problem space has been heavily influenced by some [rust](https://www.rust-lang.org/) APIs: standard library iterators, readers and writers, and stream and sink traits in the [futures](https://crates.io/crates/futures) crate.
 
 ## Bonus Problem
 
